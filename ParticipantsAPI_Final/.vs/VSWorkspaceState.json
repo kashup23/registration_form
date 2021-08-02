@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ParticipantsAPI",
+    "\\ParticipantsAPI\\Controllers",
+    "\\ParticipantsAPI\\Manager"
+  ],
+  "SelectedNode": "\\ParticipantsAPI\\Manager\\ParticipantManager.cs",
+  "PreviewInSolutionExplorer": false
+}
